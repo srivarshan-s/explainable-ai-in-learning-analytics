@@ -2,3 +2,6 @@ venv/
 Approach*/data
 .ipynb_checkpoints/
 *explainable.ipynb
+*model*.csv
+*.png
+*new.ipynb
