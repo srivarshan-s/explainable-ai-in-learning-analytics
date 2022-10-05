@@ -6,3 +6,4 @@ Approach*/data
 *.png
 *new.ipynb
 Approach 2 (old)/
+2-stage-model/feature_coeffs.csv
