@@ -1,6 +1,7 @@
 absl-py==1.2.0
 asttokens==2.0.8
 astunparse==1.6.3
+autopep8==2.0.0
 backcall==0.2.0
 cachetools==5.2.0
 certifi==2022.9.14
@@ -53,6 +54,7 @@ ptyprocess==0.7.0
 pure-eval==0.2.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
+pycodestyle==2.9.1
 Pygments==2.13.0
 pyparsing==3.0.9
 python-dateutil==2.8.2
@@ -69,11 +71,12 @@ stack-data==0.5.0
 tensorboard==2.10.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.10.0
 tensorflow-estimator==2.10.0
+tensorflow-gpu==2.10.0
 tensorflow-io-gcs-filesystem==0.27.0
 termcolor==2.0.1
 threadpoolctl==3.1.0
+tomli==2.0.1
 tornado==6.2
 tqdm==4.64.1
 traitlets==5.4.0
