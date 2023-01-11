@@ -5,6 +5,7 @@ Approach*/data
 *model*.csv
 *.png
 *new.ipynb
+*trial.ipynb
 Approach 2 (old)/
 2-stage-model/feature_coeffs.csv
 lime/data/
