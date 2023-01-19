@@ -13,3 +13,8 @@ lime/models/cog_model.pkl
 lime/models/eff_model.pkl
 lime/models/qual_model.pkl
 lime/models/reas_model.pkl
+shap/data/
+shap/models/cog_model.pkl
+shap/models/eff_model.pkl
+shap/models/qual_model.pkl
+shap/models/reas_model.pkl
